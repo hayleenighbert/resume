@@ -7,19 +7,18 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Haylee Nighbert
+    tagline: UX/UI Designer and Web Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: haylee.nigh@gmail.com
+    website: www.hayleenighbert.com #do not add http://
+    linkedin: hayleenoelle
+    github: hayleenighbert
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@hayleenoelle_'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -28,173 +27,125 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
+      - item: Photography
+        link: http://www.hayleenoellephotography.com/
 
       - item: Cooking
+        link: https://hayleenighbert.github.io/foodblog/
+
+      - item: Painting
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      UX Designer and full stack Web Developer with an extensive background in graphic design, product design, and web design.  I develop applications and client experiences using cutting-edge tech, user research, and UX design principles.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Associate of Arts (A.A.)
+      university: Whatcom Community College
+      time: 2010 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Psychology
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Web Development Immersive (WDI)
+      university: General Assembly
+      time: 2015 - 2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Full Stack Web Development
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: UX/UI Designer and Web Developer
+      time: 2017 - Present
+      company: Freelance
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+          - Created and designed landing pages using modern web frameworks and technologies.
+          - Developed the front-end and web design for a recently launched application called <a href="https://beta.pennypost.me/" target="_blank">PennyPost</a> and worked closely with UX/UI Designers and Interactive Designers to develop the beta.
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: UX Designer and UI Developer
+      time: 2016 - 2017
+      company: Microsoft, Redmond
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+          - Developed and designed an enterprise-level CMS for the Microsoft corporate web sites, landing pages, and e-commerce apps.
+          - Led teammates on the engineering team in accessibility best practices and developed user-centric designs using code examples and visual guides designed in Sketch and Adobe XD.
+          - Provided guidance and gave presentations to the development team regarding user accessibility and it’s importance to user friendly design.
+          - Developed web components, including forms and accessible data-driven UI components, that were implemented into prototypes using HTML5, CSS, Ja vascript, JQuery, React, Angular, and node.js.
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Product and Web Designer
+      time: 2016 - 2016
+      company: POSSIBLE, Seattle
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+          - Created prototypes, redlines, and designed graphic treatments for Microsoft product web sites.
+          - Prototyped and designed the XBOX Live site using the Microsoft Web Framework and module orientation.
+          - Worked between designers and developers to speed up software production and ship fully-functional designs on schedule.
+
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Open source projects I've contributed to.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Rare Colors
+        link: "http://hayleenighbert.github.io/rarecolors/"
+        tagline: "Rare Colors is a responsive web design project featuring some of the rarest pigments found in the natural world. Using those pigments as samples, I created a bold web design color palette for site themes."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Space Cats
+        link: "https://github.com/hayleenighbert/vr_hackathon"
+        tagline: "Space Cats is a Virtual Reality experience set in a space station at zero-gravity. It was developed using the Unity3D engine for the HTC Vive."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Blog
+        link: "https://hayleenighbert.github.io/blog/"
+        tagline: "Theme created for my blog, dedicated to UI/UX Design and software development commentary."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Busy B's Food Blog
+        link: "https://hayleenighbert.github.io/foodblog/"
+        tagline: "Cooking blog template for busy ladies and gents who need some quick, delicious recipes."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: HTML5
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: CSS
+        level: 100%
+
+      - name: JavaScript & JQuery
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: Adobe Creative Suite
+        level: 100%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Sketch
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: InDesign
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://www.hayleenighbert.com/" target="_blank" rel="nofollow">Haylee Nighbert</a>
