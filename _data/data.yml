@@ -16,7 +16,7 @@ sidebar:
     website: www.hayleenighbert.com #do not add http://
     linkedin: hayleenoelle
     github: hayleenighbert
-    gitlab:
+    gitlab: hayleenighbert
     bitbucket:
     twitter: '@hayleenoelle_'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -39,7 +39,7 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: |
+    summary: UX/UI Designer and Full Stack Web Developer with a passion for creating accessible, user-friendly, and meaningful interactive experiences.
       UX Designer and full stack Web Developer with an extensive background in graphic design, product design, and web design.  I develop applications and client experiences using cutting-edge tech, user research, and UX design principles.
 
 education:
@@ -133,19 +133,19 @@ skills:
         level: 98%
 
       - name: CSS
-        level: 100%
+        level: 95%
 
       - name: JavaScript & JQuery
-        level: 98%
+        level: 90%
 
       - name: Adobe Creative Suite
-        level: 100%
+        level: 98%
 
       - name: Sketch
         level: 85%
 
-      - name: InDesign
-        level: 60%
+      - name: InVision
+        level: 75%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://www.hayleenighbert.com/" target="_blank" rel="nofollow">Haylee Nighbert</a>
