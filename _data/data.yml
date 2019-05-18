@@ -91,7 +91,7 @@ projects:
     assignments:
       - title: Rare Colors
         link: "http://hayleenighbert.github.io/rarecolors/"
-        tagline: "Rare Colors is a responsive web design project featuring some of the rarest pigments found in the natural world. Using those pigments as samples, I created a bold web design color palette for site themes."
+        tagline: "Rare Colors is a UX color story/web design featuring some of the rarest pigments found in the natural world. Using those pigments as samples, I created a bold color palette and the go more in-depth on the history of those pigments."
 
       - title: Space Cats
         link: "https://github.com/hayleenighbert/vr_hackathon"
