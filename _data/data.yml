@@ -39,7 +39,7 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: UX/UI Designer and Web Developer with a passion for creating accessible, user-friendly, and meaningful interactive experiences and has extensive experience in graphic design, product design, and full stack software development. I design and develop applications and client experiences using modern design/web frameworks, user research, and UX design ideation/implementation.
+    summary: UX/UI Designer and Web Developer with a passion for creating accessible, user-friendly, and meaningful interactive experiences. Has extensive experience in graphic design, product design, and full stack software development. Designs and develops applications and client experiences using modern design/web frameworks, user research, and UX design ideation/implementation.
 
 education:
     - degree: Associate of Arts (A.A.)
@@ -64,7 +64,7 @@ experiences:
 
     - role: UX Designer and UI Developer
       time: 2016 - 2017
-      company: Microsoft, Redmond
+      company: Microsoft, Redmond, WA
       details: |
 
           - Developed and designed an enterprise-level CMS for the Microsoft corporate web sites, landing pages, and e-commerce apps.
@@ -74,7 +74,7 @@ experiences:
 
     - role: Product and Web Designer
       time: 2016 - 2016
-      company: POSSIBLE, Seattle
+      company: POSSIBLE, Seattle, WA
       details: |
 
           - Created prototypes, redlines, and designed graphic treatments for Microsoft product web sites.
