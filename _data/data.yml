@@ -39,8 +39,7 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: UX/UI Designer and Full Stack Web Developer with a passion for creating accessible, user-friendly, and meaningful interactive experiences.
-      UX Designer and full stack Web Developer with an extensive background in graphic design, product design, and web design.  I develop applications and client experiences using cutting-edge tech, user research, and UX design principles.
+    summary: UX/UI Designer and Full Stack Web Developer with a passion for creating accessible, user-friendly, and meaningful interactive experiences and extensive experience in graphic design, product design, and full stack software development. I design and develop applications and client experiences using modern design/web frameworks, user research, and UX design ideation/implementation.
 
 education:
     - degree: Associate of Arts (A.A.)
@@ -91,7 +90,7 @@ projects:
     assignments:
       - title: Rare Colors
         link: "http://hayleenighbert.github.io/rarecolors/"
-        tagline: "Rare Colors is a UX color story/web design featuring some of the rarest pigments found in the natural world. Using those pigments as samples, I created a bold color palette and the go more in-depth on the history of those pigments."
+        tagline: "Rare Colors is a UX color story/web design featuring some of the rarest pigments found in the natural world. Using those pigments as samples, I created a bold color palette and gave an in-depth history of the original pigments."
 
       - title: Space Cats
         link: "https://github.com/hayleenighbert/vr_hackathon"
