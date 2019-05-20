@@ -56,15 +56,17 @@ education:
 
 experiences:
     - role: UX/UI Designer and Web Developer
-      time: 2017 - Present
+      time: Jan. 2018 - Present
       company: Freelance
       details: |
-          - Created and designed landing pages using modern web frameworks and technologies.
+          - Developed and designed landing pages using modern web frameworks, technologies, and accessibility best practices.
+          - Used rapid prototyping and ideation to develop UX/UI prototypes and constructed pattern libraries for several e-commerce web apps.
           - Developed the front-end and web design for a recently launched application called <a href="https://beta.pennypost.me/" target="_blank">PennyPost</a> and worked closely with UX/UI Designers and Interactive Designers to develop the beta.
+          - Designed and prototyped UI with cohesive interactive branding experiences.
 
     - role: UX Designer and UI Developer
-      time: 2016 - 2017
-      company: Microsoft, Redmond, WA
+      time: Nov. 2016 – Sept. 2017
+      company: Microsoft / Redmond, WA
       details: |
 
           - Developed and designed an enterprise-level CMS for the Microsoft corporate web sites, landing pages, and e-commerce apps.
@@ -73,14 +75,31 @@ experiences:
           - Developed web components, including forms and accessible data-driven UI components, that were implemented into prototypes using HTML5, CSS, Ja vascript, JQuery, React, Angular, and node.js.
 
     - role: Product and Web Designer
-      time: 2016 - 2016
-      company: POSSIBLE, Seattle, WA
+      time: Sept. 2016 – Oct. 2016
+      company: POSSIBLE / Seattle, WA
       details: |
 
-          - Created prototypes, redlines, and designed graphic treatments for Microsoft product web sites.
+          - Developed prototypes, redlines, wireframes, and graphic treatments for Microsoft product web sites.
           - Prototyped and designed the XBOX Live site using the Microsoft Web Framework and module orientation.
           - Worked between designers and developers to speed up software production and ship fully-functional designs on schedule.
 
+    - role: Full Stack Web Developer & UX Designer
+      time: Sept. 2015 – Dec. 2015
+      company: General Assembly / Seattle, WA
+      details: |
+
+          - Produced several full stack applications, prototypes, and web designs using modern web frameworks such as React.js, Angular, and Python.
+          - Developed dynamic applications with clean, user-friendly and responsive designs that were ready for any device, including mobile devices.
+          - Created mockups using Photoshop, Illustrator, Balsamiq, and Sketch and designed branding with iconography and various graphic treatments.
+
+    - role: Front-end Developer and Wordpress Designer
+      time: Sept. 2015 – Dec. 2015
+      company: Zero Point / Bellingham, WA
+      details: |
+
+          - Designed WordPress themes and customized WordPress plug-ins.
+          - Created mockups and prototypes of web designs and prototyped designs to test usability and develop memorable brand experiences.
+          - Implemented keyword research, SEO, and metadata in web sites to promote online brand visibility.
 
 projects:
     title: Projects
